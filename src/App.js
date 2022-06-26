@@ -171,7 +171,7 @@ function App() {
       <AddTask task={task} handleOnChange={handleOnChange} handleSubmit={handleSubmit} />
       <List list={list} selectedCategory={selectedCategory} handleDelete={handleDelete} handleComplete={handleComplete} />
       <footer style={{position: "fixed", bottom: ".3em", left: ".3em"}}>
-        <p style={{color: "darkgray"}}>Created by Matt Briggs</p>
+        <p style={{color: "darkgray", fontSize: ".1em"}}>Created by Matt Briggs</p>
       </footer>
     </div>
   );
