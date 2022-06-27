@@ -312,6 +312,7 @@ button:focus {
     border-radius: 0 var(--form-border-radius) var(--form-border-radius) 0;
     width: 2em;
     transition: all 200ms ease-in-out;
+    color: black;
 }
 .add-task-form .task-submit::after {
     content: '';
