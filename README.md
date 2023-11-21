@@ -1,1 +1,1 @@
-TODO App launchd with netlify. Find at https://todokeeper.netlify.app/. Developed Spring 2022
+TODO App launched with Netlify. Find at https://todokeeper.netlify.app/. Developed Spring 2022
