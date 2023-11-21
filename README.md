@@ -1,4 +1,1 @@
-TODO App
-Basic Todo App launched using Netlify
-https://todokeeper.netlify.app/
-Developed Spring 2022
+TODO App launchd with netlify. Find at https://todokeeper.netlify.app/. Developed Spring 2022
